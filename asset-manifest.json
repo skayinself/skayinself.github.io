@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//skayinself.github.io/static/css/main.5c023a01.css",
+    "main.js": "/https//skayinself.github.io/static/js/main.5fb13e7c.js",
+    "static/js/787.f587e8d5.chunk.js": "/https//skayinself.github.io/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/https//skayinself.github.io/index.html",
+    "main.5c023a01.css.map": "/https//skayinself.github.io/static/css/main.5c023a01.css.map",
+    "main.5fb13e7c.js.map": "/https//skayinself.github.io/static/js/main.5fb13e7c.js.map",
+    "787.f587e8d5.chunk.js.map": "/https//skayinself.github.io/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c023a01.css",
+    "static/js/main.5fb13e7c.js"
+  ]
+}
